@@ -6,7 +6,7 @@ namespace c_sharp_concepts
     {
         static void Main(string[] args)
         {
-            /** Begin Events and Delegates Demo */
+            /* Begin Events and Delegates Demo */
 
             var video = new Video() { Title = "Video1" };
             var videoEncoder = new VideoEncoder(); // publisher
